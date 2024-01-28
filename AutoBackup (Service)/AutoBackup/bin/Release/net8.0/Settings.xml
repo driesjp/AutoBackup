@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApplicationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FolderSources>
+    <string>C:\temp\new1</string>
+    <string>C:\temp\new2</string>
+  </FolderSources>
+  <TargetFolder>C:\tmp\newtest</TargetFolder>
+</ApplicationData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApplicationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FolderSources>
+    <string>C:\temp\csvjp</string>
+    <string>C:\temp\guitar notes</string>
+    <string>C:\temp\sample manager - Copy</string>
+  </FolderSources>
+  <TargetFolder>C:\tmp\yasy3</TargetFolder>
+</ApplicationData>

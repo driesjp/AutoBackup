@@ -1,0 +1,22 @@
+C:\Users\ds222\source\repos\AutoBackup Config\AutoBackup Config\bin\Release\net8.0-windows\AutoBackup Config.exe
+C:\Users\ds222\source\repos\AutoBackup Config\AutoBackup Config\bin\Release\net8.0-windows\AutoBackup Config.deps.json
+C:\Users\ds222\source\repos\AutoBackup Config\AutoBackup Config\bin\Release\net8.0-windows\AutoBackup Config.runtimeconfig.json
+C:\Users\ds222\source\repos\AutoBackup Config\AutoBackup Config\bin\Release\net8.0-windows\AutoBackup Config.dll
+C:\Users\ds222\source\repos\AutoBackup Config\AutoBackup Config\bin\Release\net8.0-windows\AutoBackup Config.pdb
+C:\Users\ds222\source\repos\AutoBackup Config\AutoBackup Config\bin\Release\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\ds222\source\repos\AutoBackup Config\AutoBackup Config\bin\Release\net8.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\ds222\source\repos\AutoBackup Config\AutoBackup Config\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ds222\source\repos\AutoBackup Config\AutoBackup Config\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.ServiceProcess.ServiceController.dll
+C:\Users\ds222\source\repos\AutoBackup Config\AutoBackup Config\obj\Release\net8.0-windows\AutoBackup Config.csproj.AssemblyReference.cache
+C:\Users\ds222\source\repos\AutoBackup Config\AutoBackup Config\obj\Release\net8.0-windows\AutoBackup_Config.MainForm.resources
+C:\Users\ds222\source\repos\AutoBackup Config\AutoBackup Config\obj\Release\net8.0-windows\AutoBackup Config.csproj.GenerateResource.cache
+C:\Users\ds222\source\repos\AutoBackup Config\AutoBackup Config\obj\Release\net8.0-windows\AutoBackup Config.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ds222\source\repos\AutoBackup Config\AutoBackup Config\obj\Release\net8.0-windows\AutoBackup Config.AssemblyInfoInputs.cache
+C:\Users\ds222\source\repos\AutoBackup Config\AutoBackup Config\obj\Release\net8.0-windows\AutoBackup Config.AssemblyInfo.cs
+C:\Users\ds222\source\repos\AutoBackup Config\AutoBackup Config\obj\Release\net8.0-windows\AutoBackup Config.csproj.CoreCompileInputs.cache
+C:\Users\ds222\source\repos\AutoBackup Config\AutoBackup Config\obj\Release\net8.0-windows\AutoBackup Config.csproj.CopyComplete
+C:\Users\ds222\source\repos\AutoBackup Config\AutoBackup Config\obj\Release\net8.0-windows\AutoBackup Config.dll
+C:\Users\ds222\source\repos\AutoBackup Config\AutoBackup Config\obj\Release\net8.0-windows\refint\AutoBackup Config.dll
+C:\Users\ds222\source\repos\AutoBackup Config\AutoBackup Config\obj\Release\net8.0-windows\AutoBackup Config.pdb
+C:\Users\ds222\source\repos\AutoBackup Config\AutoBackup Config\obj\Release\net8.0-windows\AutoBackup Config.genruntimeconfig.cache
+C:\Users\ds222\source\repos\AutoBackup Config\AutoBackup Config\obj\Release\net8.0-windows\ref\AutoBackup Config.dll

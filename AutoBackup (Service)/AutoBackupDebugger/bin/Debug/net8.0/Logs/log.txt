@@ -1,0 +1,150 @@
+2024-01-25 20:56:28 - Copied file 'C:\temp\csvjp\guitar notes\New Bitmap image (2).bmp' to 'C:\tmp\yay2\C\temp\csvjp\guitar notes\guitar notes\New Bitmap image (2).bmp'
+2024-01-25 20:56:28 - Copied directory 'C:\temp\csvjp\guitar notes' to 'C:\tmp\yay2\C\temp\csvjp\guitar notes'
+2024-01-25 20:56:28 - Copied file 'C:\temp\csvjp\guitar notes\New Bitmap image (2).bmp' to 'C:\tmp\yay2\C\temp\csvjp\guitar notes\guitar notes\New Bitmap image (2).bmp'
+2024-01-25 20:57:17 - Copied file 'C:\temp\csvjp\guitar notes\New Bitmap image (3).bmp' to 'C:\tmp\yay2\C\temp\csvjp\guitar notes\guitar notes\New Bitmap image (3).bmp'
+2024-01-25 20:57:17 - Copied directory 'C:\temp\csvjp\guitar notes' to 'C:\tmp\yay2\C\temp\csvjp\guitar notes'
+2024-01-25 20:57:17 - Copied file 'C:\temp\csvjp\guitar notes\New Bitmap image (3).bmp' to 'C:\tmp\yay2\C\temp\csvjp\guitar notes\guitar notes\New Bitmap image (3).bmp'
+2024-01-25 20:58:37 - Copied file 'C:\temp\csvjp\guitar notes\New Bitmap image (4).bmp' to 'C:\tmp\yay2\C\temp\csvjp\guitar notes\guitar notes\New Bitmap image (4).bmp'
+2024-01-25 20:58:37 - Copied directory 'C:\temp\csvjp\guitar notes' to 'C:\tmp\yay2\C\temp\csvjp\guitar notes'
+2024-01-25 20:58:38 - Copied file 'C:\temp\csvjp\guitar notes\New Bitmap image (4).bmp' to 'C:\tmp\yay2\C\temp\csvjp\guitar notes\guitar notes\New Bitmap image (4).bmp'
+2024-01-25 20:59:20 - Copied file 'C:\temp\csvjp\New Bitmap image.bmp' to 'C:\tmp\yay2\C\temp\csvjp\New Bitmap image.bmp'
+2024-01-25 20:59:21 - Copied file 'C:\temp\csvjp\New Bitmap image.bmp' to 'C:\tmp\yay2\C\temp\csvjp\New Bitmap image.bmp'
+2024-01-25 23:05:28 - Copied file 'C:\temp\csvjp\New Bitmap image (2).bmp' to 'C:\tmp\yay2\C\temp\csvjp\New Bitmap image (2).bmp'
+2024-01-25 23:05:54 - Copied file 'C:\temp\csvjp\New Text Document (25).txt' to 'C:\tmp\yay2\C\temp\csvjp\New Text Document (25).txt'
+2024-01-25 23:06:36 - Renamed 'C:\tmp\yay2\C\temp\csvjp\New Text Document (25).txt' to 'C:\tmp\yay2\C\temp\csvjp\New Text Document (25ss).txt'
+2024-01-26 12:04:42 - Copied file 'C:\temp\csvjp\New Bitmap image (2).bmp' to 'C:\tmp\yay2\C\temp\csvjp\New Bitmap image (2).bmp'
+2024-01-26 12:04:42 - Copied file 'C:\temp\csvjp\New Bitmap image.bmp' to 'C:\tmp\yay2\C\temp\csvjp\New Bitmap image.bmp'
+2024-01-26 12:04:42 - Copied file 'C:\temp\csvjp\guitar notes\New Bitmap image (4).bmp' to 'C:\tmp\yay2\C\temp\csvjp\guitar notes\guitar notes\New Bitmap image (4).bmp'
+2024-01-26 12:04:42 - Copied file 'C:\temp\csvjp\guitar notes\New Bitmap image (3).bmp' to 'C:\tmp\yay2\C\temp\csvjp\guitar notes\guitar notes\New Bitmap image (3).bmp'
+2024-01-26 12:04:42 - Copied file 'C:\temp\csvjp\guitar notes\New Bitmap image (2).bmp' to 'C:\tmp\yay2\C\temp\csvjp\guitar notes\guitar notes\New Bitmap image (2).bmp'
+2024-01-26 12:04:42 - Copied file 'C:\temp\csvjp\guitar notes\New Bitmap image.bmp' to 'C:\tmp\yay2\C\temp\csvjp\guitar notes\guitar notes\New Bitmap image.bmp'
+2024-01-26 12:05:30 - Copied file 'C:\temp\csvjp\New Microsoft Excel Worksheet.xlsx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet.xlsx'
+2024-01-26 12:05:30 - Copied file 'C:\temp\csvjp\New Microsoft Excel Worksheet.xlsx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet.xlsx'
+2024-01-26 12:05:30 - Error during copy: Could not find file 'C:\temp\csvjp\~ew Microsoft Excel Worksheet.tmp'.
+2024-01-26 12:05:30 - Error during copy: Could not find file 'C:\temp\csvjp\~ew Microsoft Excel Worksheet.tmp'.
+2024-01-26 12:05:30 - Error during copy: Could not find file 'C:\temp\csvjp\New Microsoft Excel Worksheet.xlsx~RF45c17b.TMP'.
+2024-01-26 12:05:30 - Deleted 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet.xlsx~RF45c17b.TMP'
+2024-01-26 12:05:30 - Renamed 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet.xlsx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet.xlsx~RF45c17b.TMP'
+2024-01-26 12:05:30 - Error renaming file: Could not find file 'C:\tmp\yay2\C\temp\csvjp\~ew Microsoft Excel Worksheet.tmp'.
+2024-01-26 12:05:30 - Deleted 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet.xlsx~RF45c17b.TMP'
+2024-01-26 12:06:16 - Copied file 'C:\temp\csvjp\New Bitmap image (3).bmp' to 'C:\tmp\yay2\C\temp\csvjp\New Bitmap image (3).bmp'
+2024-01-26 12:07:04 - Copied file 'C:\temp\csvjp\New Microsoft Excel Worksheet (2).xlsx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (2).xlsx'
+2024-01-26 12:07:04 - Copied file 'C:\temp\csvjp\New Microsoft Excel Worksheet (2).xlsx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (2).xlsx'
+2024-01-26 12:07:04 - Error during copy: Could not find file 'C:\temp\csvjp\~ew Microsoft Excel Worksheet (2).tmp'.
+2024-01-26 12:07:04 - Error during copy: Could not find file 'C:\temp\csvjp\~ew Microsoft Excel Worksheet (2).tmp'.
+2024-01-26 12:07:04 - Error during copy: Could not find file 'C:\temp\csvjp\~ew Microsoft Excel Worksheet (2).tmp'.
+2024-01-26 12:07:04 - Error during copy: Could not find file 'C:\temp\csvjp\New Microsoft Excel Worksheet (2).xlsx~RF472f73.TMP'.
+2024-01-26 12:07:04 - Deleted 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (2).xlsx~RF472f73.TMP'
+2024-01-26 12:07:04 - Renamed 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (2).xlsx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (2).xlsx~RF472f73.TMP'
+2024-01-26 12:07:04 - Error renaming file: Could not find file 'C:\tmp\yay2\C\temp\csvjp\~ew Microsoft Excel Worksheet (2).tmp'.
+2024-01-26 12:07:04 - Deleted 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (2).xlsx~RF472f73.TMP'
+2024-01-26 12:08:19 - Copied file 'C:\temp\csvjp\~$New Microsoft Excel Worksheet (2).xlsx' to 'C:\tmp\yay2\C\temp\csvjp\~$New Microsoft Excel Worksheet (2).xlsx'
+2024-01-26 12:08:21 - Error during copy: Could not find file 'C:\temp\csvjp\DA584000'.
+2024-01-26 12:08:21 - Error during copy: Could not find file 'C:\temp\csvjp\DA584000'.
+2024-01-26 12:08:21 - Error during copy: Could not find file 'C:\temp\csvjp\DA584000'.
+2024-01-26 12:08:21 - Error renaming file: Could not find file 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (2).xlsx'.
+2024-01-26 12:08:21 - Error renaming file: Could not find file 'C:\tmp\yay2\C\temp\csvjp\DA584000'.
+2024-01-26 12:08:21 - Error during copy: Could not find file 'C:\temp\csvjp\8145A139.tmp'.
+2024-01-26 12:08:21 - Deleted 'C:\tmp\yay2\C\temp\csvjp\8145A139.tmp'
+2024-01-26 12:08:28 - Error during copy: Could not find file 'C:\temp\csvjp\55784000'.
+2024-01-26 12:08:28 - Error during copy: Could not find file 'C:\temp\csvjp\55784000'.
+2024-01-26 12:08:28 - Error during copy: Could not find file 'C:\temp\csvjp\55784000'.
+2024-01-26 12:08:28 - Error renaming file: Could not find file 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (2).xlsx'.
+2024-01-26 12:08:28 - Error renaming file: Could not find file 'C:\tmp\yay2\C\temp\csvjp\55784000'.
+2024-01-26 12:08:28 - Error during copy: Could not find file 'C:\temp\csvjp\D56E5E6.tmp'.
+2024-01-26 12:08:28 - Deleted 'C:\tmp\yay2\C\temp\csvjp\D56E5E6.tmp'
+2024-01-26 12:09:57 - Copied file 'C:\temp\csvjp\New Bitmap image (4).bmp' to 'C:\tmp\yay2\C\temp\csvjp\New Bitmap image (4).bmp'
+2024-01-26 12:10:29 - Error during copy: Could not find file 'C:\temp\csvjp\Book1.xlsx'.
+2024-01-26 12:10:29 - Deleted 'C:\tmp\yay2\C\temp\csvjp\Book1.xlsx'
+2024-01-26 12:10:30 - Copied file 'C:\temp\csvjp\~$Book1.xlsx' to 'C:\tmp\yay2\C\temp\csvjp\~$Book1.xlsx'
+2024-01-26 12:10:30 - Error during copy: Could not find file 'C:\temp\csvjp\815A4000'.
+2024-01-26 12:10:30 - Error during copy: Could not find file 'C:\temp\csvjp\815A4000'.
+2024-01-26 12:10:30 - Error during copy: Could not find file 'C:\temp\csvjp\815A4000'.
+2024-01-26 12:10:30 - Error renaming file: Could not find file 'C:\tmp\yay2\C\temp\csvjp\815A4000'.
+2024-01-26 12:10:30 - Copied file 'C:\temp\csvjp\Book1.xlsx' to 'C:\tmp\yay2\C\temp\csvjp\Book1.xlsx'
+2024-01-26 12:10:48 - Error during copy: Could not find file 'C:\temp\csvjp\1B9A4000'.
+2024-01-26 12:10:48 - Error during copy: Could not find file 'C:\temp\csvjp\1B9A4000'.
+2024-01-26 12:10:48 - Error during copy: Could not find file 'C:\temp\csvjp\1B9A4000'.
+2024-01-26 12:10:48 - Renamed 'C:\tmp\yay2\C\temp\csvjp\Book1.xlsx' to 'C:\tmp\yay2\C\temp\csvjp\FD65D2E4.tmp'
+2024-01-26 12:10:48 - Error renaming file: Could not find file 'C:\tmp\yay2\C\temp\csvjp\1B9A4000'.
+2024-01-26 12:10:48 - Deleted 'C:\tmp\yay2\C\temp\csvjp\FD65D2E4.tmp'
+2024-01-26 20:22:00 - Copied file 'C:\temp\csvjp\New Microsoft Excel Worksheet (3).xlsx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (3).xlsx'
+2024-01-26 20:22:00 - Copied file 'C:\temp\csvjp\New Microsoft Excel Worksheet (3).xlsx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (3).xlsx'
+2024-01-26 20:22:00 - Copied file 'C:\temp\csvjp\New Microsoft Excel Worksheet (3).xlsx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (3).xlsx'
+2024-01-26 20:22:00 - Error during copy: Could not find file 'C:\temp\csvjp\~ew Microsoft Excel Worksheet (3).tmp'.
+2024-01-26 20:22:00 - Error during copy: Could not find file 'C:\temp\csvjp\~ew Microsoft Excel Worksheet (3).tmp'.
+2024-01-26 20:22:00 - Error during copy: Could not find file 'C:\temp\csvjp\~ew Microsoft Excel Worksheet (3).tmp'.
+2024-01-26 20:22:00 - Error during copy: Could not find file 'C:\temp\csvjp\~ew Microsoft Excel Worksheet (3).tmp'.
+2024-01-26 20:22:00 - Error during copy: Could not find file 'C:\temp\csvjp\~ew Microsoft Excel Worksheet (3).tmp'.
+2024-01-26 20:22:00 - Error during copy: Could not find file 'C:\temp\csvjp\New Microsoft Excel Worksheet (3).xlsx~RF20c4d7f.TMP'.
+2024-01-26 20:22:00 - Deleted 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (3).xlsx~RF20c4d7f.TMP'
+2024-01-26 20:22:00 - Renamed 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (3).xlsx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (3).xlsx~RF20c4d7f.TMP'
+2024-01-26 20:22:00 - Error renaming file: Could not find file 'C:\tmp\yay2\C\temp\csvjp\~ew Microsoft Excel Worksheet (3).tmp'.
+2024-01-26 20:22:00 - Deleted 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (3).xlsx~RF20c4d7f.TMP'
+2024-01-26 20:25:33 - Deleted 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (4).xlsx~RF20f8e33.TMP'
+2024-01-26 20:25:33 - Error renaming file: Could not find file 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (4).xlsx'.
+2024-01-26 20:25:33 - Error renaming file: Could not find file 'C:\tmp\yay2\C\temp\csvjp\~ew Microsoft Excel Worksheet (4).tmp'.
+2024-01-26 20:25:33 - Deleted 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (4).xlsx~RF20f8e33.TMP'
+2024-01-26 20:25:34 - Copied file 'C:\temp\csvjp\New Microsoft Excel Worksheet (4).xlsx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (4).xlsx'
+2024-01-26 20:25:34 - Copied file 'C:\temp\csvjp\New Microsoft Excel Worksheet (4).xlsx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (4).xlsx'
+2024-01-26 20:25:34 - Copied file 'C:\temp\csvjp\New Microsoft Excel Worksheet (4).xlsx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (4).xlsx'
+2024-01-26 20:25:47 - Copied file 'C:\temp\csvjp\New Bitmap image (5).bmp' to 'C:\tmp\yay2\C\temp\csvjp\New Bitmap image (5).bmp'
+2024-01-26 20:25:47 - Copied file 'C:\temp\csvjp\New Bitmap image (5).bmp' to 'C:\tmp\yay2\C\temp\csvjp\New Bitmap image (5).bmp'
+2024-01-26 20:34:56 - Copied file 'C:\temp\csvjp\New Bitmap image (6).bmp' to 'C:\tmp\yay2\C\temp\csvjp\New Bitmap image (6).bmp'
+2024-01-26 20:34:56 - Copied file 'C:\temp\csvjp\New Bitmap image (6).bmp' to 'C:\tmp\yay2\C\temp\csvjp\New Bitmap image (6).bmp'
+2024-01-26 20:35:31 - Copied file 'C:\temp\csvjp\New Bitmap image (7).bmp' to 'C:\tmp\yay2\C\temp\csvjp\New Bitmap image (7).bmp'
+2024-01-26 20:35:31 - Copied file 'C:\temp\csvjp\New Bitmap image (7).bmp' to 'C:\tmp\yay2\C\temp\csvjp\New Bitmap image (7).bmp'
+2024-01-26 20:35:55 - Deleted 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (5).xlsx~RF2190e82.TMP'
+2024-01-26 20:35:55 - Error renaming file: Could not find file 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (5).xlsx'.
+2024-01-26 20:35:55 - Error renaming file: Could not find file 'C:\tmp\yay2\C\temp\csvjp\~ew Microsoft Excel Worksheet (5).tmp'.
+2024-01-26 20:35:55 - Deleted 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (5).xlsx~RF2190e82.TMP'
+2024-01-26 20:35:56 - Copied file 'C:\temp\csvjp\New Microsoft Excel Worksheet (5).xlsx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (5).xlsx'
+2024-01-26 20:35:56 - Copied file 'C:\temp\csvjp\New Microsoft Excel Worksheet (5).xlsx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (5).xlsx'
+2024-01-26 20:35:56 - Copied file 'C:\temp\csvjp\New Microsoft Excel Worksheet (5).xlsx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (5).xlsx'
+2024-01-26 20:48:05 - Copied file 'C:\temp\csvjp\New Bitmap image (8).bmp' to 'C:\tmp\yay2\C\temp\csvjp\New Bitmap image (8).bmp'
+2024-01-26 20:48:22 - Deleted 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (6).xlsx~RF22472c5.TMP'
+2024-01-26 20:48:22 - Error renaming file: Could not find file 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (6).xlsx'.
+2024-01-26 20:48:22 - Error renaming file: Could not find file 'C:\tmp\yay2\C\temp\csvjp\~ew Microsoft Excel Worksheet (6).tmp'.
+2024-01-26 20:48:22 - Deleted 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (6).xlsx~RF22472c5.TMP'
+2024-01-26 20:52:17 - Copied file 'C:\temp\csvjp\New Bitmap image (10).bmp' to 'C:\tmp\yay2\C\temp\csvjp\New Bitmap image (10).bmp'
+2024-01-26 20:52:34 - Deleted 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (7).xlsx~RF2284a3b.TMP'
+2024-01-26 20:52:34 - Error renaming file: Could not find file 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (7).xlsx'.
+2024-01-26 20:52:34 - Error renaming file: Could not find file 'C:\tmp\yay2\C\temp\csvjp\~ew Microsoft Excel Worksheet (7).tmp'.
+2024-01-26 20:52:34 - Deleted 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (7).xlsx~RF2284a3b.TMP'
+2024-01-26 20:52:35 - Copied file 'C:\temp\csvjp\New Microsoft Excel Worksheet (7).xlsx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (7).xlsx'
+2024-01-26 20:55:00 - Deleted 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (8).xlsx~RF22a84aa.TMP'
+2024-01-26 20:55:00 - Error renaming file: Could not find file 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (8).xlsx'.
+2024-01-26 20:55:00 - Error renaming file: Could not find file 'C:\tmp\yay2\C\temp\csvjp\~ew Microsoft Excel Worksheet (8).tmp'.
+2024-01-26 20:55:00 - Deleted 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (8).xlsx~RF22a84aa.TMP'
+2024-01-26 20:55:02 - Copied file 'C:\temp\csvjp\New Microsoft Excel Worksheet (8).xlsx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (8).xlsx'
+2024-01-26 20:56:14 - Error renaming file: Could not find file 'C:\tmp\yay2\C\temp\csvjp\~ew Microsoft Excel Worksheet (9).tmp'.
+2024-01-26 20:56:16 - Copied file 'C:\temp\csvjp\New Microsoft Excel Worksheet (9).xlsx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (9).xlsx'
+2024-01-26 21:59:56 - Error renaming file: Could not find file 'C:\tmp\yay2\C\temp\csvjp\~ew Microsoft Excel Worksheet (10).tmp'.
+2024-01-26 21:59:58 - Copied file 'C:\temp\csvjp\New Microsoft Excel Worksheet (10).xlsx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (10).xlsx'
+2024-01-26 22:00:18 - Copied file 'C:\temp\csvjp\New Microsoft Word Document.docx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Word Document.docx'
+2024-01-26 22:03:10 - Skipping temporary file or directory: 'C:\tmp\yay2\C\temp\csvjp\~ew Microsoft Excel Worksheet (11).tmp'
+2024-01-26 22:03:12 - Copied file 'C:\temp\csvjp\New Microsoft Excel Worksheet (11).xlsx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (11).xlsx'
+2024-01-26 22:04:53 - Skipping temporary file or directory: 'C:\tmp\yay2\C\temp\csvjp\~ew Microsoft Excel Worksheet (12).tmp'
+2024-01-26 22:04:55 - Copied file 'C:\temp\csvjp\New Microsoft Excel Worksheet (12).xlsx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (12).xlsx'
+2024-01-26 22:05:41 - Skipping temporary file or directory: 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (13).xlsx~RF26b3bdd.TMP'
+2024-01-26 22:05:41 - Error renaming file: Could not find file 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (13).xlsx'.
+2024-01-26 22:05:41 - Skipping temporary file or directory: 'C:\tmp\yay2\C\temp\csvjp\~ew Microsoft Excel Worksheet (13).tmp'
+2024-01-26 22:05:41 - Skipping temporary file or directory: 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (13).xlsx~RF26b3bdd.TMP'
+2024-01-26 22:05:43 - Copied file 'C:\temp\csvjp\New Microsoft Excel Worksheet (13).xlsx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (13).xlsx'
+2024-01-26 22:08:08 - Copied file 'C:\temp\csvjp\New Microsoft Word Document (2).docx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Word Document (2).docx'
+2024-01-26 22:08:35 - Skipping temporary file or directory: 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (14).xlsx~RF26de08f.TMP'
+2024-01-26 22:08:35 - Error renaming file: Could not find file 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (14).xlsx'.
+2024-01-26 22:08:35 - Skipping temporary file or directory: 'C:\tmp\yay2\C\temp\csvjp\~ew Microsoft Excel Worksheet (14).tmp'
+2024-01-26 22:08:35 - Skipping temporary file or directory: 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (14).xlsx~RF26de08f.TMP'
+2024-01-26 22:08:37 - Copied file 'C:\temp\csvjp\New Microsoft Excel Worksheet (14).xlsx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (14).xlsx'
+2024-01-26 22:12:27 - Skipping temporary file or directory: 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (15).xlsx~RF2716d9e.TMP'
+2024-01-26 22:12:27 - Error renaming file: Could not find file 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (15).xlsx'.. This is common for files written in fast, consecutive stages.
+2024-01-26 22:12:27 - Skipping temporary file or directory: 'C:\tmp\yay2\C\temp\csvjp\~ew Microsoft Excel Worksheet (15).tmp'
+2024-01-26 22:12:27 - Skipping temporary file or directory: 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (15).xlsx~RF2716d9e.TMP'
+2024-01-26 22:12:29 - Copied file 'C:\temp\csvjp\New Microsoft Excel Worksheet (15).xlsx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (15).xlsx'
+2024-01-27 00:57:17 - Copied file 'C:\temp\csvjp\New Microsoft Word Document (3).docx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Word Document (3).docx'
+2024-01-27 00:57:32 - Skipping temporary file or directory: 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (16).xlsx~RF3088e76.TMP'
+2024-01-27 00:57:32 - Error renaming file: Could not find file 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (16).xlsx'.. This is common for files written in fast, consecutive stages.
+2024-01-27 00:57:32 - Skipping temporary file or directory: 'C:\tmp\yay2\C\temp\csvjp\~ew Microsoft Excel Worksheet (16).tmp'
+2024-01-27 00:57:32 - Skipping temporary file or directory: 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (16).xlsx~RF3088e76.TMP'
+2024-01-27 00:57:34 - Copied file 'C:\temp\csvjp\New Microsoft Excel Worksheet (16).xlsx' to 'C:\tmp\yay2\C\temp\csvjp\New Microsoft Excel Worksheet (16).xlsx'

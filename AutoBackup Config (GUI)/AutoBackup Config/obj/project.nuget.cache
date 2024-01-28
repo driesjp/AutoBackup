@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HQQ0SSiuCeS7erbrw1OY2DUKl+ZoDkn/u71r0JYqmEiYXxvK1i6ySnonOX+OS1XYbFZbAUaxOZ6pAufXtqfUpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ds222\\OneDrive\\デスクトップ\\4git\\AutoBackup Config (GUI)\\AutoBackup Config\\AutoBackup Config.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ds222\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\ds222\\.nuget\\packages\\system.serviceprocess.servicecontroller\\8.0.0\\system.serviceprocess.servicecontroller.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
